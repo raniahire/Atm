@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="SNAKE GAME/|currency-converter-in-java-master/src/|BankingSystem2/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="BankingSystem2/src"/>
+	<classpathentry kind="src" path="currency-converter-in-java-master/src"/>
+	<classpathentry kind="src" path="SNAKE GAME"/>
+	<classpathentry kind="output" path="BankingSystem2/build/classes"/>
+</classpath>
